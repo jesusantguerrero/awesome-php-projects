@@ -1,7 +1,7 @@
 # Awesome PHP Projects
 > A curated list of impresive and educational projects that the community could learn something from
 
-> This list is just for applications. There are lists for packages and resources.
+> This list is just for web applications. There are lists for packages and resources out there.
 
 ## Finance
 - [Akaunting](https://github.com/akaunting/akaunting) ([website](https://akaunting.com)): Akaunting has an interesting project structure that can serve as an example of a modular and extensible project. complex parts of the business logic follows a `jobs` driven approach. it has a good testing coverage too.
