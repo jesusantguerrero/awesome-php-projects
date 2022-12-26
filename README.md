@@ -8,4 +8,6 @@
 
 
 ## CRM
-- [PingCRM](https://github.com/inertiajs/pingcrm) ([website](http://demo.inertiajs.com/login)): Even though is a demo project is one of the best examples out there of real use case of Inertia projects that I know (the other good examples are mine xD) It has good testing for inertia specific behavior
+- [PingCRM](https://github.com/inertiajs/pingcrm) ([website](http://demo.inertiajs.com/login)): Even though is a demo project is one of the best examples out there of real use case of Inertia projects that I know (the other good examples are mine xD) It has good testing for inertia specific behavior.
+
+- [OfficeLife](https://github.com/officelifehq/officelife) ([website](https://demo.officelife.io/)): The concept and implementation of the idea is very well executed, I really love the readme, they opt to test the project from cypress wich is not very common for the projects a saw so it is a good place to learn to test a laravel project from cypress, the arquitecture is quite good as well.
