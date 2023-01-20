@@ -5,7 +5,7 @@
 
 ## Finance
 - [Akaunting](https://github.com/akaunting/akaunting) ([website](https://akaunting.com)): Akaunting has an interesting project structure that can serve as an example of a modular and extensible project. complex parts of the business logic follows a `jobs` driven approach. it has a good testing coverage too.
-
+- [Crater](https://github.com/crater-invoice/crater): It is a simple but powerful invoicing application it has traditional dirs, vite and typescript setup, a complete documentation and docker setup to self-host.
 
 ## CRM
 - [PingCRM](https://github.com/inertiajs/pingcrm) ([website](http://demo.inertiajs.com/login)): Even though is a demo project is one of the best examples out there of real use case of Inertia projects that I know (the other good examples are mine xD) It has good testing for inertia specific behavior.
